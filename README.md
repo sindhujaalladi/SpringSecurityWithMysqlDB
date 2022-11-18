@@ -31,3 +31,6 @@ Userdetails provide daoauthenthication provider to validate the login user detai
 
 ![image](https://user-images.githubusercontent.com/115841974/202607790-e3b43598-4bec-4b5c-86be-6af6cb6728ef.png)
 by giving user data details in login page spring security will authenthicate the details by daoauthenthicationprovider
+
+![image](https://user-images.githubusercontent.com/115841974/202608088-af5385ed-3919-4306-8b42-663d1b35469e.png)
+
